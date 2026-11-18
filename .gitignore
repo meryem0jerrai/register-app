@@ -1,2 +1,10 @@
+# Virtual environnments (just in case one gets created inside the repo later)
+venv/
 
-venv
+# Pytest cache
+.pytest_cache/
+
+# macOS system files (apparently it's crucial because I'm on macOS)
+.DS_Store
+
+
